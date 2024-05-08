@@ -1,3 +1,9 @@
+# Currency Exchange Rates App in Compose Multiplatform
+
+## Demo
+
+https://github.com/cvivek07/CurrencyAppKMM/assets/16047933/cc3764de-f24f-48ad-89c7-64454ea6a156
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
